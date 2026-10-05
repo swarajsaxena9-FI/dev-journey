@@ -1,13 +1,13 @@
-# Day NN — YYYY-MM-DD
+# Day 00 — 2026-10-05
 
 **Time:** __ min   **Roadmap task:** ______
 
 ## Recall (bina dekhe)
-- Kya likhne ki koshish ki:
-- Kitna sahi nikla (%):
+- Kya likhne ki koshish ki: aaj sab dekh ke kiye ye repo aaj he banai hai wo bhi claude se git ki command le ke
+- Kitna sahi nikla (%): sab theek hai 
 
 ## Build
-- Kya banaya:
+- Kya banaya: kuch nahi 
 - Commit(s):
 
 ## Peek log (HONEST)
