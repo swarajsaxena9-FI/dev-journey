@@ -16,7 +16,8 @@
 | | |
 
 ## Errors aur fix
-- Error:  →  Fix:
+- cofit:  →  config: typo error
+- add. : -> add . : typo error
 
 ## DSA
 - Problem:
