@@ -7,7 +7,7 @@ def is_anagram(s, t):
     return s_sort == t_sort
    
     
-def test_is_anagram ():
+def test_is_anagram():
     assert is_anagram('listen','silent') == True
     assert is_anagram('rat','car') == False
     assert is_anagram('aab','ab') == False
@@ -18,7 +18,7 @@ def test_is_anagram ():
 def is_anagram2(s, t):
     return Counter(s)==Counter(t)
 
-def test_is_anagram2 ():
+def test_is_anagram2():
     assert is_anagram2('listen','silent') == True
     assert is_anagram2('rat','car') == False
     assert is_anagram2('aab','ab') == False
